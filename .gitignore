@@ -1,0 +1,4 @@
+*ipynb*
+*.pyc
+.cache
+.pytest_cache/
